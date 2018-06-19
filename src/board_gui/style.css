@@ -1,0 +1,97 @@
+.list-view{
+	-fx-background-color: #616161;
+	-fx-text-fill: white;
+}
+
+.list-cell{
+	-fx-background-color: #616161;
+	-fx-text-fill: white;
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: #bf360c;
+}
+.list-view:filled:selected {
+    -fx-background-color: #bf360c;
+}
+
+.choice-box .context-menu { -fx-background-color:  #111111; }
+.choice-box .menu-item:focused { -fx-background-color: #bf360c; }
+.choice-box .menu-item > .label { -fx-text-fill: white; }
+.choice-box .menu-item:focused > .label { -fx-text-fill: white; }
+
+.choice-box {
+  -fx-background-color:  #111111;
+  -fx-mark-color: #bf360c; 
+}
+.choice-box > .label { -fx-text-fill: white; }
+
+
+.check-box .box {
+
+	-fx-background-color: #212121;
+	-fx-border-color: #212121;
+	-fx-border-radius:0px; 
+}
+
+.check-box:selected .mark {
+-fx-background-color: #bf360c;
+
+}
+.toggle-button,
+.toggle-button:focused
+{
+    -fx-background-color: BLACK;
+}
+.button{
+	 -fx-background-color:  #212121;
+}
+.button:pressed
+{
+    -fx-background-color: #bf360c;
+}
+
+.toggle-button:selected,.toggle-button:selected:focused {
+    -fx-background-color: #bf360c;
+}
+
+.progress-bar > .track {
+    -fx-background-color: #212121;
+}
+.progress-bar > .bar {
+	-fx-background-insets: 0 0 0 0;
+    -fx-padding: 0.20em;
+    -fx-background-color:#bf360c;
+}
+
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color:transparent;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.scroll-bar > .increment-button > .increment-arrow,
+.scroll-bar > .decrement-button > .decrement-arrow {
+    -fx-background-color: black;
+}
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: black;
+}
+
+
+.scroll-bar:horizontal .thumb:pressed,
+.scroll-bar:vertical .thumb:pressed {
+    -fx-background-color: #bf360c;
+}
