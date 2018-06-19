@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robopoly>
+    
+	<plat id="1">
+		<name>RobopolyAI</name>
+		<group>1</group>
+		<value>1200</value>
+		<img>def.png</img>
+		<housePrice>1000</housePrice>
+		<rent h="0">40</rent>
+		<rent h="1">200</rent>
+		<rent h="2">600</rent>
+		<rent h="3">1800</rent>
+		<rent h="4">3200</rent>
+		<rent h="5">5000</rent>
+	</plat>
+	
+	<plat id="3">
+		<name>MF Výpočty</name>
+		<group>1</group>
+		<value>1200</value>
+		<img>def.png</img>
+		<housePrice>1000</housePrice>
+		<rent h="0">80</rent>
+		<rent h="1">400</rent>
+		<rent h="2">1200</rent>
+		<rent h="3">3600</rent>
+		<rent h="4">6400</rent>
+		<rent h="5">9000</rent>
+	</plat>
+	<plat id="4">
+		<value>1000</value>
+	</plat>	
+	
+	<plat id="5">
+		<name>Gymnázium Arabská</name>
+		<group>2</group>
+		<img>def.png</img>
+		<value>4000</value>
+	</plat>
+
+	<plat id="6">
+		<name>Lipence</name>
+		<group>3</group>
+		<value>2000</value>
+		<img>def.png</img>
+		<housePrice>1000</housePrice>
+		<rent h="0">120</rent>
+		<rent h="1">600</rent>
+		<rent h="2">1800</rent>
+		<rent h="3">5400</rent>
+		<rent h="4">8000</rent>
+		<rent h="5">11000</rent>
+	</plat>
+	
+	
+	<plat id="8">
+		<name>Zbraslav</name>
+		<group>3</group>
+		<value>2000</value>
+		<img>def.png</img>
+		<housePrice>1000</housePrice>
+		<rent h="0">120</rent>
+		<rent h="1">600</rent>
+		<rent h="2">1800</rent>
+		<rent h="3">5400</rent>
+		<rent h="4">8000</rent>
+		<rent h="5">11000</rent>
+	</plat>
+	
+	
+	<plat id="9">
+		<name>Radotín</name>
+		<group>3</group>
+		<value>2400</value>
+		<img>def.png</img>
+		<housePrice>1000</housePrice>
+		<rent h="0">160</rent>
+		<rent h="1">800</rent>
+		<rent h="2">2000</rent>
+		<rent h="3">6000</rent>
+		<rent h="4">9000</rent>
+		<rent h="5">12000</rent>
+	</plat>
+	
+		
+	<plat id="11">
+		<name>Přehrada Vrané</name>
+		<group>4</group>
+		<value>2800</value>
+		<img>def.png</img>
+		<housePrice>2000</housePrice>
+		<rent h="0">200</rent>
+		<rent h="1">1000</rent>
+		<rent h="2">3000</rent>
+		<rent h="3">9000</rent>
+		<rent h="4">12500</rent>
+		<rent h="5">15000</rent>
+	</plat>
+	<plat id="12">
+		<name>Výherní automaty</name>
+		<group>5</group>
+		<img>def.png</img>
+		<value>3000</value>
+	</plat>
+	<plat id="13">
+		<name>Přehrada Štěchovice</name>
+		<group>4</group>
+		<value>2800</value>
+		<img>def.png</img>
+		<housePrice>2000</housePrice>
+		<rent h="0">200</rent>
+		<rent h="1">1000</rent>
+		<rent h="2">3000</rent>
+		<rent h="3">9000</rent>
+		<rent h="4">12500</rent>
+		<rent h="5">15000</rent>
+	</plat>
+	<plat id="14">
+		<name>Elektrárna Štěchovice II</name>
+		<group>4</group>
+		<value>3200</value>
+		<img>def.png</img>
+		<housePrice>2000</housePrice>
+		<rent h="0">240</rent>
+		<rent h="1">1200</rent>
+		<rent h="2">3600</rent>
+		<rent h="3">10000</rent>
+		<rent h="4">14000</rent>
+		<rent h="5">18000</rent>
+	</plat>
+	
+	<plat id="15">
+		<name>Gymnázium Oty Pavla</name>
+		<group>2</group>
+		<img>def.png</img>
+		<value>4000</value>
+	</plat>
+	
+	<plat id="16">
+		<name>Výrobna CPU</name>
+		<group>6</group>
+		<img>def.png</img>
+		<value>3600</value>
+		
+		<housePrice>2000</housePrice>
+		<rent h="0">280</rent>
+		<rent h="1">1400</rent>
+		<rent h="2">4000</rent>
+		<rent h="3">11000</rent>
+		<rent h="4">15000</rent>
+		<rent h="5">19000</rent>
+	</plat>
+	
+		<plat id="17">
+		<name>Výrobna harddisků</name>
+		<group>6</group>
+		<img>def.png</img>
+		<value>3600</value>
+		
+		<housePrice>2000</housePrice>
+		<rent h="0">280</rent>
+		<rent h="1">1400</rent>
+		<rent h="2">4000</rent>
+		<rent h="3">11000</rent>
+		<rent h="4">15000</rent>
+	</plat>
+	
+			
+		<plat id="19">
+		<name>Prodejna počítačů</name>
+		<img>def.png</img>
+		<group>6</group>
+		<value>4000</value>
+		
+		<housePrice>2000</housePrice>
+		<rent h="0">320</rent>
+		<rent h="1">1600</rent>
+		<rent h="2">4400</rent>
+		<rent h="3">12000</rent>
+		<rent h="4">16000</rent>
+		<rent h="5">20000</rent>
+	</plat>
+	
+	<plat id="21">
+		<name>VR startup</name>
+		<group>7</group>
+		<value>4400</value>
+		<img>def.png</img>
+		<housePrice>3000</housePrice>
+		<rent h="0">360</rent>
+		<rent h="1">1800</rent>
+		<rent h="2">5000</rent>
+		<rent h="3">14000</rent>
+		<rent h="4">17500</rent>
+		<rent h="5">21000</rent>
+	</plat>
+	<plat id="23">
+		<name>Výrobna VR helm</name>
+		<group>7</group>
+		<value>4400</value>
+		<img>def.png</img>
+		<housePrice>3000</housePrice>
+		<rent h="0">360</rent>
+		<rent h="1">1800</rent>
+		<rent h="2">5000</rent>
+		<rent h="3">14000</rent>
+		<rent h="4">17500</rent>
+		<rent h="5">21000</rent>
+	</plat>	
+	<plat id="24">
+		<name>Herní VR Studio</name>
+		<group>7</group>
+		<value>4800</value>
+		<img>def.png</img>
+		<housePrice>3000</housePrice>
+		<rent h="0">400</rent>
+		<rent h="1">2000</rent>
+		<rent h="2">6000</rent>
+		<rent h="3">15000</rent>
+		<rent h="4">18500</rent>
+		<rent h="5">22000</rent>
+	</plat>	
+	<plat id="25">
+		<name>Gymnázium Nad Štolou</name>
+		<group>2</group>
+		<img>def.png</img>
+		<value>4000</value>
+	</plat>	
+	<plat id="26">
+		<name>C#</name>
+		<group>8</group>
+		<value>5200</value>
+		<img>def.png</img>
+		<housePrice>3000</housePrice>
+		<rent h="0">440</rent>
+		<rent h="1">2200</rent>
+		<rent h="2">6600</rent>
+		<rent h="3">16000</rent>
+		<rent h="4">19500</rent>
+		<rent h="5">23000</rent>
+	</plat>
+	<plat id="27">
+		<name>C++</name>
+		<group>8</group>
+		<value>5200</value>
+		<img>def.png</img>
+		<housePrice>3000</housePrice>
+		<rent h="0">440</rent>
+		<rent h="1">2200</rent>
+		<rent h="2">6600</rent>
+		<rent h="3">16000</rent>
+		<rent h="4">19500</rent>
+		<rent h="5">23000</rent>
+	</plat>	
+	
+	<plat id="28">
+		<name>Kasino</name>
+		<group>5</group>
+		<img>def.png</img>
+		<value>3000</value>
+	</plat>	
+	<plat id="29">
+		<name>Java</name>
+		<group>8</group>
+		<value>5800</value>
+		<img>def.png</img>
+		<housePrice>3000</housePrice>
+		<rent h="0">480</rent>
+		<rent h="1">2400</rent>
+		<rent h="2">7200</rent>
+		<rent h="3">17000</rent>
+		<rent h="4">20500</rent>
+		<rent h="5">24000</rent>
+	</plat>		
+	
+
+	<plat id="31">
+		<name>Bitcoinová burza</name>
+		<group>9</group>
+		<value>6000</value>
+		<img>def.png</img>
+		<housePrice>4000</housePrice>
+		<rent h="0">520</rent>
+		<rent h="1">2600</rent>
+		<rent h="2">7800</rent>
+		<rent h="3">18000</rent>
+		<rent h="4">22000</rent>
+		<rent h="5">25500</rent>
+	</plat>
+	<plat id="32">
+		<name>Oddělení kryptoměn</name>
+		<group>9</group>
+		<value>6000</value>
+		<img>def.png</img>
+		<housePrice>4000</housePrice>
+		<rent h="0">520</rent>
+		<rent h="1">2600</rent>
+		<rent h="2">7800</rent>
+		<rent h="3">18000</rent>
+		<rent h="4">22000</rent>
+		<rent h="5">25500</rent>
+	</plat>	
+	<plat id="34">
+		<name>Bitcoinová farma</name>
+		<group>9</group>
+		<value>6400</value>
+		<img>def.png</img>
+		<housePrice>4000</housePrice>
+		<rent h="0">560</rent>
+		<rent h="1">3000</rent>
+		<rent h="2">9000</rent>
+		<rent h="3">20000</rent>
+		<rent h="4">24000</rent>
+		<rent h="5">28000</rent>
+	</plat>	
+	<plat id="35">
+		<name>ZŠ Vladislava Vančury</name>
+		<group>2</group>
+		<img>def.png</img>
+		<value>4000</value>
+	</plat>	
+	<plat id="37">
+		<name>Robotická továrna</name>
+		<group>10</group>
+		<value>7000</value>
+		<img>def.png</img>
+		<housePrice>4000</housePrice>
+		<rent h="0">700</rent>
+		<rent h="1">3500</rent>
+		<rent h="2">10000</rent>
+		<rent h="3">22000</rent>
+		<rent h="4">26000</rent>
+		<rent h="5">30000</rent>
+	</plat>
+	<plat id="39">
+		<name>Výzkumné centrum</name>
+		<group>10</group>
+		<value>8000</value>
+		<img>def.png</img>
+		<housePrice>4000</housePrice>
+		<rent h="0">1000</rent>
+		<rent h="1">4000</rent>
+		<rent h="2">12000</rent>
+		<rent h="3">28000</rent>
+		<rent h="4">34000</rent>
+		<rent h="5">40000</rent>
+	</plat>			
+	
+	<plat id="38">
+		<value>2000</value>
+	</plat>	
+
+	<chance type="1" val="1000">Z banky obdržíš 1000 BTC!</chance>
+	<chance type="1" val="2000">Vyhrál jsi 2000 BTC!</chance>
+	<chance type="1" val="3000">Vyhrál jsi v běžecké soutěži 3000 BTC!</chance>
+	<chance type="2" val="500">Zaplať bance 500 BTC!</chance>
+	<chance type="2" val="2000">Zaplať bance doplatek 2000 BTC!</chance>
+	<chance type="2" val="3000">Zaplať nedoplacenou daň 3000 BTC!</chance>
+	<chance type="3" val="0">Jdi dopředu na start. Dostaneš 4000 BTC.</chance>
+	<chance type="3" val="24">Jdi dopředu na poličko 24. Dostaneš 4000 BTC (pokud projedeš startem).</chance>
+	<chance type="3" val="11">Jdi dopředu na poličko 11 (Přehrada Vrané). Dostaneš 4000 BTC (pokud projedeš startem).</chance>
+	<chance type="3" val="5">Jdi navštívit syna studujícího na gymnáziu Arabská.</chance>
+	<chance type="3" val="39">Běž na nejdražší políčko Výzkumné centrum.</chance>
+	<chance type="3" val="-3">Jdi o 3 políčka zpět.</chance>
+	<chance type="4" val="500" val2="2000">Renovuješ všechny domy, za každý dům zaplať 500 BTC a za každý hotel 2000 BTC.</chance>
+	<chance type="5">Jdi do vězení!</chance>
+	<chance type="6">Karta opusť zdarma vězení</chance>
+	    
+	
+	<financy type="1" val="4000">Banka to pokazila vyzvedni si 4000 BTC!</financy>
+	<financy type="1" val="1000">Jako dárek dostaneš 1000 BTC.</financy>
+	<financy type="1" val="2000">Vyhra Arabské kalkulačky, vyzvedni si 2000 BTC.</financy>
+	
+	<financy type="1" val="2000">Začíná se ti dařit v sázení, vyzvedni si 2000 BTC.</financy>
+	<financy type="1" val="500">Vyhral jsi v automatech 500 BTC.</financy>
+	<financy type="1" val="500">Dařilo se ti na burze, vyzvedni si 500 BTC.</financy>
+	<financy type="1" val="400">Získal jsi adresu bitcoinové pěněženky s 400 BTC.</financy>
+	<financy type="1" val="300">Dostal jsi od kamaradů 300 BTC.</financy>
+	
+	
+	<financy type="2" val="1000">Zaplať pokutu za nedovoléné létání s dronem 1000 BTC!</financy>
+	<financy type="2" val="500">Zaplať pokutu za autorská práva 500 BTC!</financy>
+	<financy type="2" val="500">Zaplať škoda po povodních 500 BTC!</financy>
+	<financy type="2" val="2000">Zaplať škoda po požáru 2000 BTC!</financy>
+	
+	<financy type="3" val="0">Jdi dopředu na start. Dostaneš 4000 BTC</financy>   
+	<financy type="4" val="500" val2="2000">Zavadíš do všech nemovitostí chytré prvky, za každý dům zaplať 500 BTC a za každý hotel 2000 BTC.</financy>
+	<financy type="5">Jdi do vězení!</financy>
+	<financy type="6">Karta opusť zdarma vězení</financy>
+	
+	
+</robopoly>
